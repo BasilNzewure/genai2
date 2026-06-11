@@ -48,9 +48,9 @@ print(type(app_name))
 # List 
 
 # The Building Block of python Program:
-# 1. Variables 
-# 2. Functions
-# 3. Optional Statements
+# 1. Variables  
+# 2. Functions 
+# 3. Optional Statements 
 
 def triangle(lentgh = 3, breath = 2, height = 4):
     return lentgh * breath * height
